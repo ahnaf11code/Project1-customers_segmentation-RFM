@@ -27,6 +27,7 @@ We change InvoiceDate feature datatype into datetime and adding more features (D
 
 
 So, we're able to know what time and month has the best selling. After we sum quantity x unit price, we got selling amount of each month and each time. Here the best selling month and time
+
 ![4](https://user-images.githubusercontent.com/82840840/116848585-1adf5000-ac17-11eb-9fa7-23b0b0694cdd.PNG)
 ![5](https://user-images.githubusercontent.com/82840840/116848593-20d53100-ac17-11eb-8e8d-d9fa06eb9bd0.PNG)
 
